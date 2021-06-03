@@ -1,0 +1,5 @@
+*.log
+containers_test
+Doc
+FT_CONTAINERS_TESTER
+a.out
